@@ -1,4 +1,4 @@
-Automated Data Cleaning in SQL
+# Automated Data Cleaning in SQL
 
 📘 Project Overview
 This project demonstrates how to automate a full data cleaning pipeline using Stored Procedures, Triggers, and Events. The goal is to simulate a real-world scenario where incoming raw data is automatically cleaned, standardized, and stored in a separate table — ensuring data quality, consistency, and automation without manual intervention.
