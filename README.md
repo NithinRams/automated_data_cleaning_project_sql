@@ -46,8 +46,8 @@ END;
 • Timestamp Tracking — Adds a timestamp for each cleaning run for monitoring and data versioning.
 
 🗂️ File Summary
-
 📦 automated-data-cleaning/
+ 
  ┣ 📜 automated_cleaning.sql   
  ┣ 📄 README.md               
  ┗ 📊 sample_data.csv  
